@@ -23,7 +23,7 @@ public class Unicode10Demo {
 	 */
 	public static void main(String[] args) {
 		// 控制台输出😀
-		System.out.println(Character.toChars(0x1F600)); // 😀
+		System.out.println(Character.toChars(0x1F600)); //  显示😀
 
 		// 使用GUI显示😀
 		GuiApp();
