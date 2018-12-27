@@ -5,8 +5,12 @@ package com.waylau.java.jdk8;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -57,6 +61,31 @@ public class StreamDemo {
 		
 		// 输出过滤后的集合信息
 		applesStream.forEach(System.out::println);
+		
+		// 构造Stream的方式
+		// 空流处理
+		// Java 9之前
+		String homeValue = System.getProperty("home");
+		Stream<String> homeValueStream = 
+				homeValue == null ? Stream.empty() : Stream.of(homeValue);
+		
+		// Java 9之后，使用ofNullable
+		Stream<String> homeValueStream1 = 
+				Stream.ofNullable(System.getProperty("home"));
+		
+		// 从数组中构造
+		Integer[] intArray = {4, 5, 3, 9};
+		Stream<Integer> stream = Arrays.stream(intArray);
+		
+		// 从集合中构造
+		Stream<Integer> stream1 = List.of(1,2,3).stream();
+		
+		// 从文件中构造
+		long uniqueWords = 0;
+		try (Stream<String> lines = Files.lines( Paths.get("data.txt"), Charset.defaultCharset())) {
+			uniqueWords = lines.flatMap(line -> Arrays.stream(line.split(" "))).distinct().count();
+		} catch (IOException e) {
+		}
 	}
 
 	@Test
@@ -127,5 +156,128 @@ public class StreamDemo {
 		assertEquals(4, Stream.of(intArray).reduce(Integer::max).orElse(0).intValue());
 		
 		assertEquals(1, Stream.of(intArray).reduce(Integer::min).orElse(0).intValue());
+	}
+
+	@Test
+	public void testReduceSum() {
+		Integer[] intArray = {4, 5, 3, 9};
+		
+		// 4+5+3+9=21
+		assertEquals(21, Stream.of(intArray).reduce(0, (a, b) -> a + b).intValue());	
+	}
+	
+	
+	@Test
+	public void testReduceMaxAndMin() {
+		Integer[] intArray = {4, 5, 3, 9};
+		
+		// 计算最大值
+		assertEquals(9, Stream.of(intArray).reduce(Integer::max).get().intValue());	
+
+		// 计算最小值
+		assertEquals(3, Stream.of(intArray).reduce(Integer::min).get().intValue());	
+	}
+
+
+	@Test
+	public void testDistinct() {
+		Integer[] intArray = {1, 2, 3, 4, 3, 5};
+
+		Stream<Integer> result = Stream.of(intArray).distinct();
+		
+		result.forEach(System.out::println);
+	}
+	
+	@Test
+	public void testTakeWhile() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+		
+		//判断J开头
+		List<String> list = Stream.of(testStrings).takeWhile(x -> x.startsWith("J")).collect(Collectors.toList());
+ 
+		list.forEach(System.out::println);
+	}
+	
+	
+	@Test
+	public void testDropWhile() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+		
+		//判断J开头
+		List<String> list = Stream.of(testStrings).dropWhile(x -> x.startsWith("J")).collect(Collectors.toList());
+ 
+		list.forEach(System.out::println);
+	}
+	
+	@Test
+	public void testLimit() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+		
+		//长度大于2
+		List<String> list = Stream.of(testStrings).filter(x -> x.length()>2)
+				.limit(2).collect(Collectors.toList());
+ 
+		list.forEach(System.out::println);
+	}
+	
+	
+	@Test
+	public void testSkip() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+		
+		//长度大于2
+		List<String> list = Stream.of(testStrings).filter(x -> x.length()>2)
+				.skip(2).collect(Collectors.toList());
+ 
+		list.forEach(System.out::println);
+	}
+	
+	@Test
+	public void testFlatMap() {
+		String[] words = {"Hello", "World"};
+
+		List<String> list = Stream.of(words)
+				.map(word -> word.split(""))
+				.flatMap(Arrays::stream)
+				.distinct()
+				.collect(Collectors.toList());
+ 
+		list.forEach(System.out::println);
+	}
+
+	@Test
+	public void testAllMatch() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+		
+		//长度大于2,，全部匹配
+		assertEquals(true, Stream.of(testStrings).allMatch(x -> x.length()>2));
+		assertEquals(false, Stream.of(testStrings).allMatch(x -> x.length()>3));
+	}
+	
+	@Test
+	public void testAnyMatch() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+
+		// 部分匹配
+		assertEquals(true, Stream.of(testStrings).anyMatch(x -> x.length()>3));
+
+		// 没有匹配
+		assertEquals(false, Stream.of(testStrings).anyMatch(x -> x.length()>6));
+	}
+	
+	@Test
+	public void testFindFirst() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+
+		// 部分匹配
+		assertEquals("Java", Stream.of(testStrings).filter(x -> x.length()>3).findFirst().get());
+	}
+	
+	@Test
+	public void testFindAny() {
+		String[] testStrings = {"Java", "C++", "Golang"};
+
+		// 部分匹配
+		assertEquals("Java", Stream.of(testStrings).filter(x -> x.length()>3).findAny().get());
 	}
 }
