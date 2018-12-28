@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -78,7 +79,8 @@ public class StreamDemo {
 		Stream<Integer> stream = Arrays.stream(intArray);
 		
 		// 从集合中构造
-		Stream<Integer> stream1 = List.of(1,2,3).stream();
+		Stream<Integer> streamList = List.of(1,2,3).stream();
+		Stream<Integer> streamSet = Set.of(1,2,3).stream();
 		
 		// 从文件中构造
 		long uniqueWords = 0;
