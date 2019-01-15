@@ -1,4 +1,4 @@
-# Modern Java: From Java 8 to Java 11
+# Modern Java: From Java 8 to Java 11. 现代Java案例大全
 
 
 ## 内容简介
