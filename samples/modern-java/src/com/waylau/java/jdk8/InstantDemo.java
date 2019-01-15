@@ -5,13 +5,7 @@ package com.waylau.java.jdk8;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import java.time.DayOfWeek;
 import java.time.Instant;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.Month;
-import java.time.temporal.ChronoField;
 
 import org.junit.jupiter.api.Test;
 

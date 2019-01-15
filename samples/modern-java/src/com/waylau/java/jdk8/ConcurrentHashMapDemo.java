@@ -3,8 +3,6 @@
  */
 package com.waylau.java.jdk8;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 import org.junit.jupiter.api.Test;
