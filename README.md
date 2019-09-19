@@ -8,8 +8,8 @@
 技术版本如下：
 
 * JDK 13
-* Eclipse IDE for Enterprise Java Developers 4.10.0
-* JUnit 5.3.1
+* Eclipse IDE for Enterprise Java Developers 2019-09 R (4.13.0)
+* JUnit 5.5.1
 * ...
 
 ## Code 源码
