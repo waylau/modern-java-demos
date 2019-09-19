@@ -12,10 +12,10 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK8:Optional.
  * 
- * @since 1.0.0 2018年12月23日
+ * @since 1.0.0 2019年4月20日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class OptionalDemo {
+class OptionalDemo {
 
 	/**
 	 * @param args

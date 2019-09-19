@@ -14,10 +14,10 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK8:Method Reference
  * 
- * @since 1.0.0 2018年12月26日
+ * @since 1.0.0 2019年4月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class MethodReferenceDemo {
+class MethodReferenceDemo {
 
 	/**
 	 * @param args

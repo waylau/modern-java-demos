@@ -12,10 +12,10 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK11:String API.
  * 
- * @since 1.0.0 2018年12月23日
+ * @since 1.0.0 2019年4月19日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
-public class StringDemo {
+class StringDemo {
 
 	/**
 	 * @param args

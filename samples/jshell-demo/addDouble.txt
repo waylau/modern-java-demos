@@ -1,0 +1,9 @@
+help
+/help
+double addDouble(double a, double b) {
+return a + b;
+}
+addDouble(3.14159, 22);
+list
+/list
+/save -history d://addDouble.txt

@@ -9,7 +9,7 @@ package com.waylau.java.jdk8;
  * @since 1.0.0 2018年12月23日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class DefaultMethodDemo {
+class DefaultMethodDemo {
 
 	/**
 	 * @param args

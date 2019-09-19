@@ -7,16 +7,16 @@ package com.waylau.java.jdk11;
  * JDK11:Raw String Literals（原始字符串文字）.
  * JEP 326:http://openjdk.java.net/jeps/326
  * 
- * @since 1.0.0 2018年12月22日
+ * @since 1.0.0 2019年4月19日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
-public class RawStringLiteralsDemo {
+class RawStringLiteralsDemo {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
+		
 		/*
 		// JDK10之前
 		String sql1 = "select id, name \n "

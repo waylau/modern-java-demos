@@ -13,10 +13,10 @@ import javax.swing.JLabel;
  * JDK11:Unicode 10
  * JEP 327：http://openjdk.java.net/jeps/327
  * 
- * @since 1.0.0 2018年12月23日
+ * @since 1.0.0 2019年4月19日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
-public class Unicode10Demo {
+class Unicode10Demo {
 
 	/**
 	 * @param args

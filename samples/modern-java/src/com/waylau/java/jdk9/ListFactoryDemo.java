@@ -16,14 +16,15 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK9:List factory.
  * 
- * @since 1.0.0 2019年1月2日
+ * @since 1.0.0 2019年4月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class ListFactoryDemo {
+class ListFactoryDemo {
 
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// Java 9之前
 		List<String> friends = new ArrayList<>();

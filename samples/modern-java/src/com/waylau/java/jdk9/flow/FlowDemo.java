@@ -12,7 +12,7 @@ import java.util.concurrent.SubmissionPublisher;
  * @since 1.0.0 2019年1月22日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
-public class FlowDemo {
+class FlowDemo {
 
 	/**
 	 * @param args

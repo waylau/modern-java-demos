@@ -12,11 +12,12 @@ import java.util.Set;
  * @since 1.0.0 2019年1月2日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
-public class SetFactoryDemo {
+class SetFactoryDemo {
 
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// Java 9之前
 		Set<String> friends = new HashSet<>();

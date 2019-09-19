@@ -12,10 +12,10 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK8：Constructor Method Reference.
  * 
- * @since 1.0.0 2018年12月26日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since 1.0.0 2019年4月21日
+ * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class ConstructorMethodReferenceDemo {
+class ConstructorMethodReferenceDemo {
 
 	@Test
 	public void main() {

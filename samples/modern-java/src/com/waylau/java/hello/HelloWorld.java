@@ -3,13 +3,15 @@
  */
 package com.waylau.java.hello;
 
-import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
 /**
  * Hello World
  * 
- * @since 1.0.0 2018年12月22日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since 1.0.0 2019年3月30日
+ * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class HelloWorld {
 
@@ -19,8 +21,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 	}
-	
-	/*
+
+	/**
 	 * 第一个JUnit5测试用例
 	 */
 	@Test

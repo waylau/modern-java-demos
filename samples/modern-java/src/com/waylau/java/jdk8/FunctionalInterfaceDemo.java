@@ -12,10 +12,10 @@ import java.util.function.Predicate;
 /**
  * JDK8:FunctionalInterface
  * 
- * @since 1.0.0 2018年12月26日
+ * @since 1.0.0 2019年4月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class FunctionalInterfaceDemo {
+class FunctionalInterfaceDemo {
 
 	/**
 	 * @param args

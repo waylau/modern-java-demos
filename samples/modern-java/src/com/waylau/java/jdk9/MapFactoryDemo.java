@@ -17,14 +17,15 @@ import org.junit.jupiter.api.Test;
 /**
  * JDK9:Map factory.
  * 
- * @since 1.0.0 2019年1月2日
+ * @since 1.0.0 2019年4月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class MapFactoryDemo {
+class MapFactoryDemo {
 
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// Java 9之后
 		Map<String, Integer> friends = 

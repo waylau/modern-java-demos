@@ -5,11 +5,12 @@ package com.waylau.java.jdk9;
 
 /**
  * JDK9:try-with-resources
- * 
- * @since 1.0.0 2018年12月25日
+ * JEP 213: http://openjdk.java.net/jeps/213
+ *  
+ * @since 1.0.0 2019年4月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-public class TryWithResourcesDemo {
+class TryWithResourcesDemo {
 
 	/**
 	 * @param args

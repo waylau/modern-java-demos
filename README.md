@@ -1,11 +1,13 @@
-# Modern Java: From Java 8 to Java 11. 现代Java案例大全
+# Modern Java: From Java 8 to Java 13. 现代Java案例大全
 
 
 ## 内容简介
 
+现代Java案例大全，包含从 Java 8 到 Java 13 所有新特性及其案例。学习 Java 的同志们，燥起来！
+
 技术版本如下：
 
-* JDK 11.0.1
+* JDK 13
 * Eclipse IDE for Enterprise Java Developers 4.10.0
 * JUnit 5.3.1
 * ...
