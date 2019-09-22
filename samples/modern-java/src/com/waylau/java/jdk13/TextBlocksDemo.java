@@ -23,6 +23,8 @@ class TextBlocksDemo {
 	              "    </body>\n" +
 	              "</html>\n";
 
+		System.out.println(html);
+		
 		// JDK13之后
 	    String html2 = """
 	              <html>
@@ -31,6 +33,8 @@ class TextBlocksDemo {
 	                  </body>
 	              </html>
 	              """;
+	    
+	    System.out.println(html2);
 	}
 
 }
