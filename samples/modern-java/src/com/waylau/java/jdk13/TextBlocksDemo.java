@@ -26,7 +26,8 @@ class TextBlocksDemo {
 		System.out.println(html);
 		
 		// JDK13之后
-	    String html2 = """
+	    @SuppressWarnings("preview")
+		String html2 = """
 	              <html>
 	                  <body>
 	                      <p>Hello, world</p>

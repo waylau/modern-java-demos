@@ -1,40 +1,40 @@
-# Modern Java: From Java 8 to Java 13. ÏÖ´úJava°¸Àý´óÈ«
+# Modern Java: From Java 8 to Java 13. ï¿½Ö´ï¿½Javaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È«
 
 
-## ÄÚÈÝ¼ò½é
+## ï¿½ï¿½ï¿½Ý¼ï¿½ï¿½
 
-ÏÖ´úJava°¸Àý´óÈ«£¬°üº¬´Ó Java 8 µ½ Java 13 ËùÓÐÐÂÌØÐÔ¼°Æä°¸Àý¡£Ñ§Ï° Java µÄÍ¬Ö¾ÃÇ£¬ÔïÆðÀ´£¡
+ï¿½Ö´ï¿½Javaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Java 8 ï¿½ï¿½ Java 13 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ä°¸ï¿½ï¿½ï¿½ï¿½Ñ§Ï° Java ï¿½ï¿½Í¬Ö¾ï¿½Ç£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-¼¼Êõ°æ±¾ÈçÏÂ£º
+ï¿½ï¿½ï¿½ï¿½ï¿½æ±¾ï¿½ï¿½ï¿½Â£ï¿½
 
 * JDK 13
-* Eclipse IDE for Enterprise Java Developers 2019-09 R (4.13.0)
+* Eclipse 2019-12 (4.14)
 * JUnit 5.5.1
 * ...
 
-## Code Ô´Âë
+## Code Ô´ï¿½ï¿½
 
-ËùÓÐÊ¾ÀýÔ´Âë£¬ÒÆ²½ÖÁ<https://github.com/waylau/modern-java-demos/>  `samples` Ä¿Â¼ÏÂ
+ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½Ô´ï¿½ë£¬ï¿½Æ²ï¿½ï¿½ï¿½<https://github.com/waylau/modern-java-demos/>  `samples` Ä¿Â¼ï¿½ï¿½
  
 
-## ÁªÏµ×÷Õß
+## ï¿½ï¿½Ïµï¿½ï¿½ï¿½ï¿½
 
-ÄúÒ²¿ÉÒÔÖ±½ÓÁªÏµÎÒ£º
+ï¿½ï¿½Ò²ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½Ïµï¿½Ò£ï¿½
 
-* ²©¿Í£ºhttps://waylau.com
-* ÓÊÏä£º[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* Î¢²©£ºhttp://weibo.com/waylau521
-* ¿ªÔ´£ºhttps://github.com/waylau
+* ï¿½ï¿½ï¿½Í£ï¿½https://waylau.com
+* ï¿½ï¿½ï¿½ä£º[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* Î¢ï¿½ï¿½ï¿½ï¿½http://weibo.com/waylau521
+* ï¿½ï¿½Ô´ï¿½ï¿½https://github.com/waylau
 
-## ÆäËûÊé¼®
+## ï¿½ï¿½ï¿½ï¿½ï¿½é¼®
 
-ÈôÄú¶Ô±¾Êé²»¸ÐÃ°£¬±ÊÕß»¹Ð´ÁËÆäËû·½ÃæµÄ³¬¹ýÒ»´òµÄÊé¼®£¨¿É¼û<https://waylau.com/books/>£©£¬¶àÊÇ¿ªÔ´µç×ÓÊé¡£
+ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½é²»ï¿½ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ß»ï¿½Ð´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä³ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½é¼®ï¿½ï¿½ï¿½É¼ï¿½<https://waylau.com/books/>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç¿ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ï¿½é¡£
 
-±¾ÈËÒ²Î¬»¤ÁËÒ»¸ö[books-collection](https://github.com/waylau/books-collection)ÏîÄ¿£¬ÀïÃæÌá¹©ÁËÓÅÖÊµÄ×¨ÃÅ¸ø³ÌÐòÔ±µÄ¿ªÔ´¡¢Ãâ·ÑÍ¼Êé¼¯ºÏ¡£
+ï¿½ï¿½ï¿½ï¿½Ò²Î¬ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½[books-collection](https://github.com/waylau/books-collection)ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á¹©ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½×¨ï¿½Å¸ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½Ä¿ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ï¿½Í¼ï¿½é¼¯ï¿½Ï¡ï¿½
 
-## ¿ªÔ´¾èÔù
+## ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½
 
 
-![¿ªÔ´¾èÔù](https://waylau.com/images/showmethemoney-sm.jpg)
+![ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½](https://waylau.com/images/showmethemoney-sm.jpg)
 
-¾èÔùËùµÃËùÓÐ¿îÏî½«ÓÃÓÚ¿ªÔ´ÊÂÒµ£¡¼û[¾èÔùÁÐ±í](https://waylau.com/donate)¡£
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¿ï¿½ï¿½î½«ï¿½ï¿½ï¿½Ú¿ï¿½Ô´ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Ð±ï¿½](https://waylau.com/donate)ï¿½ï¿½
