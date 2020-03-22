@@ -1,20 +1,21 @@
 /**
  * Welcome to https://waylau.com
  */
-package com.waylau.java.jdk13;
+package com.waylau.java.jdk14;
 
 /**
- * JDK13: Text Blocks (Preview)
- * JEP 355: http://openjdk.java.net/jeps/355
+ * JDK 14: Text Blocks (Preview)
+ * JEP 368: http://openjdk.java.net/jeps/368
  * 
- * @since 1.0.0 2019年9月19日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since 1.0.0 2020年3月22日
+ * @author <a href="https://waylau.com">Way Lau</a>
  */
 class TextBlocksDemo {
 
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("preview")
 	public static void main(String[] args) {
 		// JDK13之前
 		String html = "<html>\n" +
@@ -23,11 +24,8 @@ class TextBlocksDemo {
 	              "    </body>\n" +
 	              "</html>\n";
 
-		System.out.println(html);
-		
 		// JDK13之后
-	    @SuppressWarnings("preview")
-		String html2 = """
+	    String html2 = """
 	              <html>
 	                  <body>
 	                      <p>Hello, world</p>

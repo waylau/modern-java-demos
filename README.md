@@ -1,41 +1,48 @@
-# Modern Java: From Java 8 to Java 13. ç°ä»£Javaæ¡ˆä¾‹å¤§å…¨
+
+# Modern Java: From Java 8 to Java 14. ÏÖ´úJava°¸Àı´óÈ«
 
 
-## å†…å®¹ç®€ä»‹
+## ÄÚÈİ¼ò½é
 
-ç°ä»£Javaæ¡ˆä¾‹å¤§å…¨ï¼ŒåŒ…å«ä» Java 8 åˆ° Java 13 æ‰€æœ‰æ–°ç‰¹æ€§åŠå…¶æ¡ˆä¾‹ã€‚å­¦ä¹  Java çš„åŒå¿—ä»¬ï¼Œç‡¥èµ·æ¥ï¼
 
-æŠ€æœ¯ç‰ˆæœ¬å¦‚ä¸‹ï¼š
+ÏÖ´úJava°¸Àı´óÈ«£¬°üº¬´Ó Java 8 µ½ Java 14 ËùÓĞĞÂÌØĞÔ¼°Æä°¸Àı¡£Ñ§Ï° Java µÄÍ¬Ö¾ÃÇ£¬ÔïÆğÀ´£¡
 
-* JDK 13
-* Eclipse 2019-12 (4.14)
+¼¼Êõ°æ±¾ÈçÏÂ£º
+
+* JDK 14
+* Eclipse IDE for Java Developers 2020-03 (4.15.0)
 * JUnit 5.5.1
 * ...
 
-## æºç 
+## Ô´Âë
 
-æ‰€æœ‰ç¤ºä¾‹æºç ï¼Œç§»æ­¥è‡³<https://github.com/waylau/modern-java-demos/>  `samples` ç›®å½•ä¸‹
+ËùÓĞÊ¾ÀıÔ´Âë£¬ÒÆ²½ÖÁ<https://github.com/waylau/modern-java-demos/>  `samples` Ä¿Â¼ÏÂ¡£
+
+¹¤³Ì´úÂë¿ÉÒÔÖ±½Óµ¼ÈëEclipse IDE¡£
+
+ÈçºÎÊ¹ÓÃEclipse IDEÖĞ±àÂë£¿¼û
+
+* Eclipse IDEÖ§³ÖJava 14£º<https://waylau.com/eclipse-ide-support-java14/>
+ 
+## ÁªÏµ×÷Õß
+
+ÄúÒ²¿ÉÒÔÖ±½ÓÁªÏµÎÒ£º
+
+²©¿Í£ºhttps://waylau.com
+ÓÊÏä£º[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+Î¢²©£ºhttp://weibo.com/waylau521
+¿ªÔ´£ºhttps://github.com/waylau
+
+## ÆäËûÊé¼®
+
+ÈôÄú¶Ô±¾Êé²»¸ĞÃ°£¬±ÊÕß»¹Ğ´ÁËÆäËû·½ÃæµÄ³¬¹ıÒ»´òµÄÊé¼®£¨¿É¼û<https://waylau.com/books/>£©£¬¶àÊÇ¿ªÔ´µç×ÓÊé¡£
+
+±¾ÈËÒ²Î¬»¤ÁËÒ»¸ö[books-collection](https://github.com/waylau/books-collection)ÏîÄ¿£¬ÀïÃæÌá¹©ÁËÓÅÖÊµÄ×¨ÃÅ¸ø³ÌĞòÔ±µÄ¿ªÔ´¡¢Ãâ·ÑÍ¼Êé¼¯ºÏ¡£
+
+## ¿ªÔ´¾èÔù
 
 
-## è”ç³»ä½œè€…
 
-æ‚¨ä¹Ÿå¯ä»¥ç›´æ¥è”ç³»æˆ‘ï¼š
+![¿ªÔ´¾èÔù](https://waylau.com/images/showmethemoney-sm.jpg)
 
-åšå®¢ï¼šhttps://waylau.com
-é‚®ç®±ï¼š[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-å¾®åšï¼šhttp://weibo.com/waylau521
-å¼€æºï¼šhttps://github.com/waylau
-
-## å…¶ä»–ä¹¦ç±
-
-è‹¥æ‚¨å¯¹æœ¬ä¹¦ä¸æ„Ÿå†’ï¼Œç¬”è€…è¿˜å†™äº†å…¶ä»–æ–¹é¢çš„è¶…è¿‡ä¸€æ‰“çš„ä¹¦ç±ï¼ˆå¯è§<https://waylau.com/books/>ï¼‰ï¼Œå¤šæ˜¯å¼€æºç”µå­ä¹¦ã€‚
-
-æœ¬äººä¹Ÿç»´æŠ¤äº†ä¸€ä¸ª[books-collection](https://github.com/waylau/books-collection)é¡¹ç›®ï¼Œé‡Œé¢æä¾›äº†ä¼˜è´¨çš„ä¸“é—¨ç»™ç¨‹åºå‘˜çš„å¼€æºã€å…è´¹å›¾ä¹¦é›†åˆã€‚
-
-## å¼€æºæèµ 
-
-
-
-![å¼€æºæèµ ](https://waylau.com/images/showmethemoney-sm.jpg)
-
-æèµ æ‰€å¾—æ‰€æœ‰æ¬¾é¡¹å°†ç”¨äºå¼€æºäº‹ä¸šï¼è§[æèµ ](https://waylau.com/donate)åˆ—è¡¨ã€‚
+¾èÔùËùµÃËùÓĞ¿îÏî½«ÓÃÓÚ¿ªÔ´ÊÂÒµ£¡¼û[¾èÔù](https://waylau.com/donate)ÁĞ±í¡£
