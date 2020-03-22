@@ -1,20 +1,26 @@
-# Modern Java: From Java 8 to Java 13. 现代Java案例大全
+# Modern Java: From Java 8 to Java 14. 现代Java案例大全
 
 
 ## 内容简介
 
-现代Java案例大全，包含从 Java 8 到 Java 13 所有新特性及其案例。学习 Java 的同志们，燥起来！
+现代Java案例大全，包含从 Java 8 到 Java 14 所有新特性及其案例。学习 Java 的同志们，燥起来！
 
 技术版本如下：
 
-* JDK 13
-* Eclipse IDE for Enterprise Java Developers 2019-09 R (4.13.0)
+* JDK 14
+* Eclipse IDE for Java Developers 2020-03 (4.15.0)
 * JUnit 5.5.1
 * ...
 
-## Code 源码
+## 源码
 
-所有示例源码，移步至<https://github.com/waylau/modern-java-demos/>  `samples` 目录下
+所有示例源码，移步至<https://github.com/waylau/modern-java-demos/>  `samples` 目录下。
+
+工程代码可以直接导入Eclipse IDE。
+
+如何使用Eclipse IDE中编码？见
+
+* Eclipse IDE支持Java 14：<https://waylau.com/eclipse-ide-support-java14/>
  
 
 ## 联系作者
