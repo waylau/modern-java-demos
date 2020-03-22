@@ -49,6 +49,15 @@ class SwitchExpressionsDemo {
 		    case WEDNESDAY              -> System.out.println(9);
 		}
 		
-	}
+		// JDK13之后
+		int date = switch (day) {
+		    case MONDAY, FRIDAY, SUNDAY : yield 6;
+		    case TUESDAY                : yield 7;
+		    case THURSDAY, SATURDAY     : yield 8;
+		    case WEDNESDAY              : yield 9;
+		    default 					: yield 1; // default条件是必须的
+		};
 
+		System.out.println(date);
+	}
 }

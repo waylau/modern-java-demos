@@ -1,7 +1,9 @@
+
 # Modern Java: From Java 8 to Java 14. 现代Java案例大全
 
 
 ## 内容简介
+
 
 现代Java案例大全，包含从 Java 8 到 Java 14 所有新特性及其案例。学习 Java 的同志们，燥起来！
 
@@ -22,15 +24,14 @@
 
 * Eclipse IDE支持Java 14：<https://waylau.com/eclipse-ide-support-java14/>
  
-
 ## 联系作者
 
 您也可以直接联系我：
 
-* 博客：https://waylau.com
-* 邮箱：[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* 微博：http://weibo.com/waylau521
-* 开源：https://github.com/waylau
+博客：https://waylau.com
+邮箱：[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+微博：http://weibo.com/waylau521
+开源：https://github.com/waylau
 
 ## 其他书籍
 
@@ -41,6 +42,7 @@
 ## 开源捐赠
 
 
+
 ![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
 
-捐赠所得所有款项将用于开源事业！见[捐赠列表](https://waylau.com/donate)。
+捐赠所得所有款项将用于开源事业！见[捐赠](https://waylau.com/donate)列表。
