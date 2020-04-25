@@ -5,11 +5,10 @@ package com.waylau.java.operator;
 
 /**
  * PrePost Demo.
- * 
- * @since 1.0.0 2019年4月3日
+ * @since 1.0.0 2020年4月25日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-class PrePostDemo {
+public class PrePostDemo {
 
 	/**
 	 * @param args
