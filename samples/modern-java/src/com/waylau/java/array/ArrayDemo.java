@@ -15,7 +15,7 @@ class ArrayDemo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// d声明数组
+		// 声明数组
 		int[] anArray;
 
 		// 分配内存空间
