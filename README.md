@@ -35,7 +35,7 @@
 
 本书如有勘误，会在<https://github.com/waylau/https://github.com/waylau/modern-java-demos/issues>上进行发布。由于笔者能力有限，时间仓促，难免错漏，欢迎读者批评指正。
 
-您也可以上[豆瓣](https://book.douban.com/subject/34450770/)给老卫打Call。
+您也可以上[豆瓣](https://book.douban.com/subject/35071286/)给老卫打Call。
 
 
 ## 如何获取本书
@@ -58,10 +58,10 @@
 
 您也可以直接联系我：
 
-博客：https://waylau.com
-邮箱：[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-微博：http://weibo.com/waylau521
-开源：https://github.com/waylau
+* 博客：https://waylau.com
+* 邮箱：[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* 微博：http://weibo.com/waylau521
+* 开源：https://github.com/waylau
 
 ## 其他书籍
 
