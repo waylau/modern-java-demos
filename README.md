@@ -49,7 +49,10 @@
 * [亚马逊](https://www.amazon.cn/s?k=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&ref=nb_sb_noss)
 
 
-也可以直接关注我博客（<https://waylau.com/>）或者我的开源书（<https://waylau.com/books/>）。
+想低于市价得到本书？来[二手书集市](https://github.com/waylau/second-hand-books)试试看。
+
+
+也可以直接关注我博客（<https://waylau.com/>）或者我的开源书（<https://waylau.com/books/>）了解更多免费咨询。
 
 
 
