@@ -23,6 +23,7 @@
 
 如何使用Eclipse IDE中编码？见
 
+* Eclipse IDE 2020-06 R(4.16.0)发布，正式支持Java 14：<https://waylau.com/eclipse-ide-2020-06-r/>
 * Eclipse IDE支持Java 14：<https://waylau.com/eclipse-ide-support-java14/>
 
 
