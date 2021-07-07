@@ -21,10 +21,32 @@
 
 工程代码可以直接导入Eclipse IDE。
 
-如何使用Eclipse IDE中编码？见
+## 文章
 
-* Eclipse IDE 2020-06 R(4.16.0)发布，正式支持Java 14：<https://waylau.com/eclipse-ide-2020-06-r/>
-* Eclipse IDE支持Java 14：<https://waylau.com/eclipse-ide-support-java14/>
+* [Java版本号处理-split 点号 split(".")](https://waylau.com/java-split-dot/)
+* [在 Eclipse 中 Debug Maven 项目“source not found”问题解决](https://waylau.com/maven-debug-in-eclipse-source-not-found)
+* [Java 注释规范详解](https://waylau.com/java-comments-conventions/)
+* [Java switch 语句使用 String 参数](https://waylau.com/java-switch-use-string/)
+* [Java 编程要点之 I/O 流详解](https://waylau.com/essential-java-io-streams/)
+* [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/)
+* [Java I/O 模型的演进](https://waylau.com/java-io-model-evolution/)
+* [在 Eclipse 里使用 PlantUML](https://waylau.com/use-plantuml-in-eclipse/)
+* [使用 Eclipse Checkstyle Plugin](https://waylau.com/use-eclipse-checkstyle-plugin/)
+* [使用 PMD Eclipse插件](https://waylau.com/use-pmd-for-eclipse/)
+* [使用 GFM Eclipse 插件时，不在项目里面生成 HTML 文件](https://waylau.com/not-generate-html-file-with-gfm/)
+* [Java 多个异常共享同一个异常处理器](https://waylau.com/java-shared-exception-handler/)
+* [Java 13 新特性及实战案例](https://waylau.com/java-13-new-features-and-samples/)
+* [JDK 14发布](https://waylau.com/jdk-14-released/)
+* [Eclipse IDE支持Java 14](https://waylau.com/eclipse-ide-support-java14/)
+* [Eclipse IDE 2020-06 R(4.16.0)发布，正式支持Java 14](https://waylau.com/eclipse-ide-2020-06-r/)
+* [Eclipse中安装反编译工具Fernflower（Enhanced Class Decompiler）](https://waylau.com/eclipse-install-fernflower/)
+* [Java陷阱——慎用入参做返回值](https://waylau.com/trap-in-java-use-param-for-return/)
+* [Java三元表达式中的陷阱](https://waylau.com/trap-in-java-ternary-expressions/)
+* [Java开发者常用软件](https://waylau.com/java-devloper-software/)
+* [JDK 15发布](https://waylau.com/jdk-15-released/)
+* [JDK 16发布](https://waylau.com/jdk-16-released/)
+
+
 
 
 ## 配套书籍《Java核心编程》
