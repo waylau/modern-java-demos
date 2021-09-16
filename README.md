@@ -1,16 +1,16 @@
 
-# Modern Java: From Java 8 to Java 14. 
+# Modern Java: From Java 8 to Java 17. 
 # 现代Java案例大全
 # 《Java核心编程》源码
 
 ## 内容简介
 
 
-现代Java案例大全，包含从 Java 8 到 Java 14 所有新特性及其案例。学习 Java 的同志们，燥起来！
+现代Java案例大全，包含从 Java 8 到 Java 17 所有新特性及其案例。学习 Java 的同志们，燥起来！
 
 技术版本如下：
 
-* JDK 14
+* JDK 17
 * Eclipse IDE for Java Developers 2020-03 (4.15.0)
 * JUnit 5.5.1
 * ...
@@ -45,6 +45,7 @@
 * [Java开发者常用软件](https://waylau.com/java-devloper-software/)
 * [JDK 15发布](https://waylau.com/jdk-15-released/)
 * [JDK 16发布](https://waylau.com/jdk-16-released/)
+* [JDK 17发布](https://waylau.com/jdk-17-released/)
 
 
 
