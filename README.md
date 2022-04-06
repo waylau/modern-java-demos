@@ -1,105 +1,105 @@
 
-# Modern Java: From Java 8 to Java 17. 
-# ÏÖ´úJava°¸Àı´óÈ«
-# ¡¶JavaºËĞÄ±à³Ì¡·Ô´Âë
+# Modern Java: From Java 8 to Java 18. 
+# ç°ä»£Javaæ¡ˆä¾‹å¤§å…¨
+# ã€ŠJavaæ ¸å¿ƒç¼–ç¨‹ã€‹æºç 
 
-## ÄÚÈİ¼ò½é
+## å†…å®¹ç®€ä»‹
 
 
-ÏÖ´úJava°¸Àı´óÈ«£¬°üº¬´Ó Java 8 µ½ Java 17 ËùÓĞĞÂÌØĞÔ¼°Æä°¸Àı¡£Ñ§Ï° Java µÄÍ¬Ö¾ÃÇ£¬ÔïÆğÀ´£¡
+ç°ä»£Javaæ¡ˆä¾‹å¤§å…¨ï¼ŒåŒ…å«ä» Java 8 åˆ° Java 18 æ‰€æœ‰æ–°ç‰¹æ€§åŠå…¶æ¡ˆä¾‹ã€‚å­¦ä¹  Java çš„åŒå¿—ä»¬ï¼Œç‡¥èµ·æ¥ï¼
 
-¼¼Êõ°æ±¾ÈçÏÂ£º
+æŠ€æœ¯ç‰ˆæœ¬å¦‚ä¸‹ï¼š
 
-* JDK 17
+* JDK 18
 * Eclipse IDE for Java Developers 2020-03 (4.15.0)
 * JUnit 5.5.1
 * ...
 
-## Ô´Âë
+## æºç 
 
-ËùÓĞÊ¾ÀıÔ´Âë£¬ÒÆ²½ÖÁ<https://github.com/waylau/modern-java-demos/>  `samples` Ä¿Â¼ÏÂ¡£
+æ‰€æœ‰ç¤ºä¾‹æºç ï¼Œç§»æ­¥è‡³<https://github.com/waylau/modern-java-demos/>  `samples` ç›®å½•ä¸‹ã€‚
 
-¹¤³Ì´úÂë¿ÉÒÔÖ±½Óµ¼ÈëEclipse IDE¡£
+å·¥ç¨‹ä»£ç å¯ä»¥ç›´æ¥å¯¼å…¥Eclipse IDEã€‚
 
-## ÎÄÕÂ
+## æ–‡ç« 
 
-* [Java°æ±¾ºÅ´¦Àí-split µãºÅ split(".")](https://waylau.com/java-split-dot/)
-* [ÔÚ Eclipse ÖĞ Debug Maven ÏîÄ¿¡°source not found¡±ÎÊÌâ½â¾ö](https://waylau.com/maven-debug-in-eclipse-source-not-found)
-* [Java ×¢ÊÍ¹æ·¶Ïê½â](https://waylau.com/java-comments-conventions/)
-* [Java switch Óï¾äÊ¹ÓÃ String ²ÎÊı](https://waylau.com/java-switch-use-string/)
-* [Java ±à³ÌÒªµãÖ® I/O Á÷Ïê½â](https://waylau.com/essential-java-io-streams/)
-* [Java ±à³ÌÒªµãÖ®²¢·¢£¨Concurrency£©Ïê½â](https://waylau.com/essential-java-concurrency/)
-* [Java I/O Ä£ĞÍµÄÑİ½ø](https://waylau.com/java-io-model-evolution/)
-* [ÔÚ Eclipse ÀïÊ¹ÓÃ PlantUML](https://waylau.com/use-plantuml-in-eclipse/)
-* [Ê¹ÓÃ Eclipse Checkstyle Plugin](https://waylau.com/use-eclipse-checkstyle-plugin/)
-* [Ê¹ÓÃ PMD Eclipse²å¼ş](https://waylau.com/use-pmd-for-eclipse/)
-* [Ê¹ÓÃ GFM Eclipse ²å¼şÊ±£¬²»ÔÚÏîÄ¿ÀïÃæÉú³É HTML ÎÄ¼ş](https://waylau.com/not-generate-html-file-with-gfm/)
-* [Java ¶à¸öÒì³£¹²ÏíÍ¬Ò»¸öÒì³£´¦ÀíÆ÷](https://waylau.com/java-shared-exception-handler/)
-* [Java 13 ĞÂÌØĞÔ¼°ÊµÕ½°¸Àı](https://waylau.com/java-13-new-features-and-samples/)
-* [JDK 14·¢²¼](https://waylau.com/jdk-14-released/)
-* [Eclipse IDEÖ§³ÖJava 14](https://waylau.com/eclipse-ide-support-java14/)
-* [Eclipse IDE 2020-06 R(4.16.0)·¢²¼£¬ÕıÊ½Ö§³ÖJava 14](https://waylau.com/eclipse-ide-2020-06-r/)
-* [EclipseÖĞ°²×°·´±àÒë¹¤¾ßFernflower£¨Enhanced Class Decompiler£©](https://waylau.com/eclipse-install-fernflower/)
-* [JavaÏİÚå¡ª¡ªÉ÷ÓÃÈë²Î×ö·µ»ØÖµ](https://waylau.com/trap-in-java-use-param-for-return/)
-* [JavaÈıÔª±í´ïÊ½ÖĞµÄÏİÚå](https://waylau.com/trap-in-java-ternary-expressions/)
-* [Java¿ª·¢Õß³£ÓÃÈí¼ş](https://waylau.com/java-devloper-software/)
-* [JDK 15·¢²¼](https://waylau.com/jdk-15-released/)
-* [JDK 16·¢²¼](https://waylau.com/jdk-16-released/)
-* [JDK 17·¢²¼](https://waylau.com/jdk-17-released/)
+* [Javaç‰ˆæœ¬å·å¤„ç†-split ç‚¹å· split(".")](https://waylau.com/java-split-dot/)
+* [åœ¨ Eclipse ä¸­ Debug Maven é¡¹ç›®â€œsource not foundâ€é—®é¢˜è§£å†³](https://waylau.com/maven-debug-in-eclipse-source-not-found)
+* [Java æ³¨é‡Šè§„èŒƒè¯¦è§£](https://waylau.com/java-comments-conventions/)
+* [Java switch è¯­å¥ä½¿ç”¨ String å‚æ•°](https://waylau.com/java-switch-use-string/)
+* [Java ç¼–ç¨‹è¦ç‚¹ä¹‹ I/O æµè¯¦è§£](https://waylau.com/essential-java-io-streams/)
+* [Java ç¼–ç¨‹è¦ç‚¹ä¹‹å¹¶å‘ï¼ˆConcurrencyï¼‰è¯¦è§£](https://waylau.com/essential-java-concurrency/)
+* [Java I/O æ¨¡å‹çš„æ¼”è¿›](https://waylau.com/java-io-model-evolution/)
+* [åœ¨ Eclipse é‡Œä½¿ç”¨ PlantUML](https://waylau.com/use-plantuml-in-eclipse/)
+* [ä½¿ç”¨ Eclipse Checkstyle Plugin](https://waylau.com/use-eclipse-checkstyle-plugin/)
+* [ä½¿ç”¨ PMD Eclipseæ’ä»¶](https://waylau.com/use-pmd-for-eclipse/)
+* [ä½¿ç”¨ GFM Eclipse æ’ä»¶æ—¶ï¼Œä¸åœ¨é¡¹ç›®é‡Œé¢ç”Ÿæˆ HTML æ–‡ä»¶](https://waylau.com/not-generate-html-file-with-gfm/)
+* [Java å¤šä¸ªå¼‚å¸¸å…±äº«åŒä¸€ä¸ªå¼‚å¸¸å¤„ç†å™¨](https://waylau.com/java-shared-exception-handler/)
+* [Java 13 æ–°ç‰¹æ€§åŠå®æˆ˜æ¡ˆä¾‹](https://waylau.com/java-13-new-features-and-samples/)
+* [JDK 14å‘å¸ƒ](https://waylau.com/jdk-14-released/)
+* [Eclipse IDEæ”¯æŒJava 14](https://waylau.com/eclipse-ide-support-java14/)
+* [Eclipse IDE 2020-06 R(4.16.0)å‘å¸ƒï¼Œæ­£å¼æ”¯æŒJava 14](https://waylau.com/eclipse-ide-2020-06-r/)
+* [Eclipseä¸­å®‰è£…åç¼–è¯‘å·¥å…·Fernflowerï¼ˆEnhanced Class Decompilerï¼‰](https://waylau.com/eclipse-install-fernflower/)
+* [Javaé™·é˜±â€”â€”æ…ç”¨å…¥å‚åšè¿”å›å€¼](https://waylau.com/trap-in-java-use-param-for-return/)
+* [Javaä¸‰å…ƒè¡¨è¾¾å¼ä¸­çš„é™·é˜±](https://waylau.com/trap-in-java-ternary-expressions/)
+* [Javaå¼€å‘è€…å¸¸ç”¨è½¯ä»¶](https://waylau.com/java-devloper-software/)
+* [JDK 15å‘å¸ƒ](https://waylau.com/jdk-15-released/)
+* [JDK 16å‘å¸ƒ](https://waylau.com/jdk-16-released/)
+* [JDK 17å‘å¸ƒ](https://waylau.com/jdk-17-released/)
+* [JDK18å·²ç»å‘å¸ƒï¼9å¤§ç‰¹æ€§ä¹‹JEP 400ï¼šé»˜è®¤ä¸ºUTF-8](https://developer.huawei.com/consumer/cn/forum/topic/0201846479510890118?fid=23)
 
 
 
+## é…å¥—ä¹¦ç±ã€ŠJavaæ ¸å¿ƒç¼–ç¨‹ã€‹
 
-## ÅäÌ×Êé¼®¡¶JavaºËĞÄ±à³Ì¡·
-
-Óë¸ÃÔ´ÂëÅäÌ×µÄÊé¼®¡¶JavaºËĞÄ±à³Ì¡·ÒÑ¾­³ö°æ£¬ÄÚÈİÏê¼ûÈ«Êé[Ä¿Â¼](SUMMARY.md)¡£
+ä¸è¯¥æºç é…å¥—çš„ä¹¦ç±ã€ŠJavaæ ¸å¿ƒç¼–ç¨‹ã€‹å·²ç»å‡ºç‰ˆï¼Œå†…å®¹è¯¦è§å…¨ä¹¦[ç›®å½•](SUMMARY.md)ã€‚
 
 ![](images/java.jpg)
 
 
-±¾ÊéÈçÓĞ¿±Îó£¬»áÔÚ<https://github.com/waylau/https://github.com/waylau/modern-java-demos/issues>ÉÏ½øĞĞ·¢²¼¡£ÓÉÓÚ±ÊÕßÄÜÁ¦ÓĞÏŞ£¬Ê±¼ä²Ö´Ù£¬ÄÑÃâ´íÂ©£¬»¶Ó­¶ÁÕßÅúÆÀÖ¸Õı¡£
+æœ¬ä¹¦å¦‚æœ‰å‹˜è¯¯ï¼Œä¼šåœ¨<https://github.com/waylau/https://github.com/waylau/modern-java-demos/issues>ä¸Šè¿›è¡Œå‘å¸ƒã€‚ç”±äºç¬”è€…èƒ½åŠ›æœ‰é™ï¼Œæ—¶é—´ä»“ä¿ƒï¼Œéš¾å…é”™æ¼ï¼Œæ¬¢è¿è¯»è€…æ‰¹è¯„æŒ‡æ­£ã€‚
 
-ÄúÒ²¿ÉÒÔÉÏ[¶¹°ê](https://book.douban.com/subject/35071286/)¸øÀÏÎÀ´òCall¡£
-
-
-## ÈçºÎ»ñÈ¡±¾Êé
-
-ÊµÌåµê¼°¸÷´óÍøµêÓĞÊÛ¡£¾İÎÒËùÖªÓĞÈçÏÂÍøÕ¾¹©Ó¦£º
-
-* [¾©¶«](https://search.jd.com/Search?keyword=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&enc=utf-8&wq=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&pvid=3f8660921bef4700931a735f536eebfb)
-* [1ºÅµê](https://search.yhd.com/c0-0/k%25E6%259F%25B3%25E4%25BC%259F%25E5%258D%25AB%2520Java%25E6%25A0%25B8%25E5%25BF%2583%25E7%25BC%2596%25E7%25A8%258B/)
-* [ÌÔ±¦](https://s.taobao.com/search?q=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20200509&ie=utf8)
-* [µ±µ±](http://search.dangdang.com/?key=%C1%F8%CE%B0%CE%C0%20Java%BA%CB%D0%C4%B1%E0%B3%CC&act=input)
-* [ÑÇÂíÑ·](https://www.amazon.cn/s?k=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&ref=nb_sb_noss)
+æ‚¨ä¹Ÿå¯ä»¥ä¸Š[è±†ç“£](https://book.douban.com/subject/35071286/)ç»™è€å«æ‰“Callã€‚
 
 
-ÏëµÍÓÚÊĞ¼ÛµÃµ½±¾Êé£¿À´[¶şÊÖÊé¼¯ÊĞ](https://github.com/waylau/second-hand-books)ÊÔÊÔ¿´¡£
+## å¦‚ä½•è·å–æœ¬ä¹¦
+
+å®ä½“åº—åŠå„å¤§ç½‘åº—æœ‰å”®ã€‚æ®æˆ‘æ‰€çŸ¥æœ‰å¦‚ä¸‹ç½‘ç«™ä¾›åº”ï¼š
+
+* [äº¬ä¸œ](https://search.jd.com/Search?keyword=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&enc=utf-8&wq=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&pvid=3f8660921bef4700931a735f536eebfb)
+* [1å·åº—](https://search.yhd.com/c0-0/k%25E6%259F%25B3%25E4%25BC%259F%25E5%258D%25AB%2520Java%25E6%25A0%25B8%25E5%25BF%2583%25E7%25BC%2596%25E7%25A8%258B/)
+* [æ·˜å®](https://s.taobao.com/search?q=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20200509&ie=utf8)
+* [å½“å½“](http://search.dangdang.com/?key=%C1%F8%CE%B0%CE%C0%20Java%BA%CB%D0%C4%B1%E0%B3%CC&act=input)
+* [äºšé©¬é€Š](https://www.amazon.cn/s?k=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Java%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&ref=nb_sb_noss)
 
 
-Ò²¿ÉÒÔÖ±½Ó¹Ø×¢ÎÒ²©¿Í£¨<https://waylau.com/>£©»òÕßÎÒµÄ¿ªÔ´Êé£¨<https://waylau.com/books/>£©ÁË½â¸ü¶àÃâ·Ñ×ÉÑ¯¡£
+æƒ³ä½äºå¸‚ä»·å¾—åˆ°æœ¬ä¹¦ï¼Ÿæ¥[äºŒæ‰‹ä¹¦é›†å¸‚](https://github.com/waylau/second-hand-books)è¯•è¯•çœ‹ã€‚
+
+
+ä¹Ÿå¯ä»¥ç›´æ¥å…³æ³¨æˆ‘åšå®¢ï¼ˆ<https://waylau.com/>ï¼‰æˆ–è€…æˆ‘çš„å¼€æºä¹¦ï¼ˆ<https://waylau.com/books/>ï¼‰äº†è§£æ›´å¤šå…è´¹å’¨è¯¢ã€‚
 
 
 
  
-## ÁªÏµ×÷Õß
+## è”ç³»ä½œè€…
 
-ÄúÒ²¿ÉÒÔÖ±½ÓÁªÏµÎÒ£º
+æ‚¨ä¹Ÿå¯ä»¥ç›´æ¥è”ç³»æˆ‘ï¼š
 
-* ²©¿Í£ºhttps://waylau.com
-* ÓÊÏä£º[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* Î¢²©£ºhttp://weibo.com/waylau521
-* ¿ªÔ´£ºhttps://github.com/waylau
+* åšå®¢ï¼šhttps://waylau.com
+* é‚®ç®±ï¼š[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* å¾®åšï¼šhttp://weibo.com/waylau521
+* å¼€æºï¼šhttps://github.com/waylau
 
-## ÆäËûÊé¼®
+## å…¶ä»–ä¹¦ç±
 
-ÈôÄú¶Ô±¾Êé²»¸ĞÃ°£¬±ÊÕß»¹Ğ´ÁËÆäËû·½ÃæµÄ³¬¹ıÒ»´òµÄÊé¼®£¨¿É¼û<https://waylau.com/books/>£©£¬¶àÊÇ¿ªÔ´µç×ÓÊé¡£
+è‹¥æ‚¨å¯¹æœ¬ä¹¦ä¸æ„Ÿå†’ï¼Œç¬”è€…è¿˜å†™äº†å…¶ä»–æ–¹é¢çš„è¶…è¿‡ä¸€æ‰“çš„ä¹¦ç±ï¼ˆå¯è§<https://waylau.com/books/>ï¼‰ï¼Œå¤šæ˜¯å¼€æºç”µå­ä¹¦ã€‚
 
-±¾ÈËÒ²Î¬»¤ÁËÒ»¸ö[books-collection](https://github.com/waylau/books-collection)ÏîÄ¿£¬ÀïÃæÌá¹©ÁËÓÅÖÊµÄ×¨ÃÅ¸ø³ÌĞòÔ±µÄ¿ªÔ´¡¢Ãâ·ÑÍ¼Êé¼¯ºÏ¡£
+æœ¬äººä¹Ÿç»´æŠ¤äº†ä¸€ä¸ª[books-collection](https://github.com/waylau/books-collection)é¡¹ç›®ï¼Œé‡Œé¢æä¾›äº†ä¼˜è´¨çš„ä¸“é—¨ç»™ç¨‹åºå‘˜çš„å¼€æºã€å…è´¹å›¾ä¹¦é›†åˆã€‚
 
-## ¿ªÔ´¾èÔù
+## å¼€æºæèµ 
 
 
 
-![¿ªÔ´¾èÔù](https://waylau.com/images/showmethemoney-sm.jpg)
+![å¼€æºæèµ ](https://waylau.com/images/showmethemoney-sm.jpg)
 
-¾èÔùËùµÃËùÓĞ¿îÏî½«ÓÃÓÚ¿ªÔ´ÊÂÒµ£¡¼û[¾èÔù](https://waylau.com/donate)ÁĞ±í¡£
+æèµ æ‰€å¾—æ‰€æœ‰æ¬¾é¡¹å°†ç”¨äºå¼€æºäº‹ä¸šï¼è§[æèµ ](https://waylau.com/donate)åˆ—è¡¨ã€‚
