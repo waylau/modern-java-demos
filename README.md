@@ -47,6 +47,10 @@
 * [JDK 16发布](https://waylau.com/jdk-16-released/)
 * [JDK 17发布](https://waylau.com/jdk-17-released/)
 * [JDK18已经发布！9大特性之JEP 400：默认为UTF-8](https://developer.huawei.com/consumer/cn/forum/topic/0201846479510890118?fid=23)
+* [JDK18已经发布！9大特性之JEP 408：简单Web服务器](https://developer.huawei.com/consumer/cn/forum/topic/0201847903978570159?fid=23)
+* [JDK18已经发布！9大特性之JEP 413：Java API文档中的代码段](https://developer.huawei.com/consumer/cn/forum/topic/0201847905486710160?fid=23)
+
+
 
 
 
