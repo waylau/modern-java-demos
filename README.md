@@ -46,12 +46,13 @@
 * [JDK 15发布](https://waylau.com/jdk-15-released/)
 * [JDK 16发布](https://waylau.com/jdk-16-released/)
 * [JDK 17发布](https://waylau.com/jdk-17-released/)
-* [JDK18已经发布！9大特性之JEP 400：默认为UTF-8](https://developer.huawei.com/consumer/cn/forum/topic/0201846479510890118?fid=23)
-* [JDK18已经发布！9大特性之JEP 408：简单Web服务器](https://developer.huawei.com/consumer/cn/forum/topic/0201847903978570159?fid=23)
-* [JDK18已经发布！9大特性之JEP 413：Java API文档中的代码段](https://developer.huawei.com/consumer/cn/forum/topic/0201847905486710160?fid=23)
-* [JDK18已经发布！9大特性之JEP 416：使用方法句柄重新实现核心反射](https://developer.huawei.com/consumer/cn/forum/topic/0204854062494110062?fid=23)
+* [JDK 18已经发布！9大特性之JEP 400：默认为UTF-8](https://developer.huawei.com/consumer/cn/forum/topic/0201846479510890118?fid=23)
+* [JDK 18已经发布！9大特性之JEP 408：简单Web服务器](https://developer.huawei.com/consumer/cn/forum/topic/0201847903978570159?fid=23)
+* [JDK 18已经发布！9大特性之JEP 413：Java API文档中的代码段](https://developer.huawei.com/consumer/cn/forum/topic/0201847905486710160?fid=23)
+* [JDK 18已经发布！9大特性之JEP 416：使用方法句柄重新实现核心反射](https://developer.huawei.com/consumer/cn/forum/topic/0204854062494110062?fid=23)
+* [JDK 18已经发布！9大特性之JEP 417：Vector API（第三次孵化器）](https://developer.huawei.com/consumer/cn/forum/topic/0203854859800470079?fid=23)
 * [Java下一代高并发技术——虚拟线程（Virtual Threads）](https://waylau.com/jep-425-virtual-threads-preview)
-
+* [JVM即时编译器JIT小探](https://developer.huawei.com/consumer/cn/blog/topic/03852250988250097)
 
 
 ## 配套书籍《Java核心编程》
