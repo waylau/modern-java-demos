@@ -52,7 +52,12 @@
 * [JDK 18已经发布！9大特性之JEP 416：使用方法句柄重新实现核心反射](https://developer.huawei.com/consumer/cn/forum/topic/0204854062494110062?fid=23)
 * [JDK 18已经发布！9大特性之JEP 417：Vector API（第三次孵化器）](https://developer.huawei.com/consumer/cn/forum/topic/0203854859800470079?fid=23)
 * [Java下一代高并发技术——虚拟线程（Virtual Threads）](https://waylau.com/jep-425-virtual-threads-preview)
+* [从Java 8升级到Java 11的注意事项](https://waylau.com/update-from-java-8-to-java-11/)
+* [云原生编译器——Java Cloud Compiler](https://waylau.com/about-java-cloud-compiler/)
 * [JVM即时编译器JIT小探](https://developer.huawei.com/consumer/cn/blog/topic/03852250988250097)
+* [JDK 19的7 个新特性](https://waylau.com/seven-new-features-of-jdk-19/)
+* [使用GraalVM原生映像彻底革新Java](https://waylau.com/reinventing-java-with-graalvm-native-images/)
+
 
 
 ## 配套书籍《Java核心编程》
