@@ -57,7 +57,7 @@
 * [JVM即时编译器JIT小探](https://developer.huawei.com/consumer/cn/blog/topic/03852250988250097)
 * [JDK 19的7 个新特性](https://waylau.com/seven-new-features-of-jdk-19/)
 * [使用GraalVM原生映像彻底革新Java](https://waylau.com/reinventing-java-with-graalvm-native-images/)
-
+* [JDK 21发布](https://waylau.com/jdk-21-released/)
 
 
 ## 配套书籍《Java核心编程》
