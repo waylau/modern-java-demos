@@ -1,17 +1,17 @@
 
-# Modern Java: From Java 8 to Java 18. 
+# Modern Java: From Java 8 to Java 21. 
 # 现代Java案例大全
 # 《Java核心编程》源码
 
 ## 内容简介
 
 
-现代Java案例大全，包含从 Java 8 到 Java 18 所有新特性及其案例。学习 Java 的同志们，燥起来！
+现代Java案例大全，包含从 Java 8 到 Java 21 所有新特性及其案例。学习 Java 的同志们，燥起来！
 
 技术版本如下：
 
-* JDK 18
-* Eclipse IDE for Java Developers 2020-03 (4.15.0)
+* JDK 21
+* Eclipse IDE for Java Developers 2023-09
 * JUnit 5.5.1
 * ...
 
