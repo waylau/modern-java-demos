@@ -1,16 +1,16 @@
 
-# Modern Java: From Java 8 to Java 21. 
+# Modern Java: From Java 8 to Java 22. 
 # 现代Java案例大全
 # 《Java核心编程》源码
 
 ## 内容简介
 
 
-现代Java案例大全，包含从 Java 8 到 Java 21 所有新特性及其案例。学习 Java 的同志们，燥起来！
+现代Java案例大全，包含从 Java 8 到 Java 22 所有新特性及其案例。学习 Java 的同志们，燥起来！
 
 技术版本如下：
 
-* JDK 21
+* JDK 22
 * Eclipse IDE for Java Developers 2023-09
 * JUnit 5.5.1
 * ...
@@ -58,7 +58,7 @@
 * [JDK 19的7 个新特性](https://waylau.com/seven-new-features-of-jdk-19/)
 * [使用GraalVM原生映像彻底革新Java](https://waylau.com/reinventing-java-with-graalvm-native-images/)
 * [JDK 21发布](https://waylau.com/jdk-21-released/)
-
+* [JDK 22发布](https://waylau.com/jdk-22-released/)
 
 ## 配套书籍《Java核心编程》
 
