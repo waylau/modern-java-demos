@@ -61,6 +61,7 @@
 * [JDK 22发布](https://waylau.com/jdk-22-released/)
 * [JDK 23发布](https://waylau.com/jdk-23-released/)
 * [JDK 24发布](https://waylau.com/jdk-24-released/)
+* [Java 30岁了！](https://www.bilibili.com/video/BV1r1jZzREPH/)（视频）
 
 ## 配套书籍《Java核心编程》
 
