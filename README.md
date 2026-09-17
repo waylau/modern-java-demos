@@ -1,5 +1,5 @@
 
-# Modern Java: From Java 8 to Java 24. 
+# Modern Java: From Java 8 to Java 27. 
 # 现代Java案例大全
 # 《Java核心编程》源码
 
@@ -10,7 +10,6 @@
 
 技术版本如下：
 
-* JDK 25
 * Eclipse IDE for Java Developers 2023-09
 * JUnit 5.5.1
 * ...
@@ -63,7 +62,9 @@
 * [JDK 24发布](https://waylau.com/jdk-24-released/)
 * [Java 30岁了！](https://www.bilibili.com/video/BV1r1jZzREPH/)（视频）
 * [JDK 25发布](https://waylau.com/jdk-25-released/)
-
+* [JDK 26发布](https://waylau.com/jdk-26-released/)
+* [JDK 27发布](https://waylau.com/jdk-27-released/)
+* 
 ## 配套书籍《Java核心编程》
 
 与该源码配套的书籍《Java核心编程》已经出版，内容详见全书[目录](SUMMARY.md)。
